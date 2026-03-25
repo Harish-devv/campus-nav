@@ -1,0 +1,28 @@
+[
+  { "name": "Main Building", "lat": 11.018339364246765, "lng": 76.93594685692938 },
+  { "name": "EEE and EIE Block", "lat": 11.017689927871308, "lng": 76.93562512551469 },
+  { "name": "Rudra Block", "lat": 11.01770119795464, "lng": 76.9363301523809 },
+  { "name": "CSE Block", "lat": 11.017579913711385, "lng": 76.93504365719694 },
+  { "name": "ECE Block", "lat": 11.017280270070145, "lng": 76.93498793329826 },
+  { "name": "Civil Block", "lat": 11.017946144417559, "lng": 76.93460028881576 },
+  { "name": "Post Office", "lat": 11.018045747404695, "lng": 76.93643522221315 },
+  { "name": "Platinum Jubilee Building", "lat": 11.01762512145462, "lng": 76.93704554516128 },
+  { "name": "NCC Office", "lat": 11.018724483470564, "lng": 76.93477306614099 },
+  { "name": "Canteen", "lat": 11.018983129083576, "lng": 76.93507480080882 },
+  { "name": "Power House", "lat": 11.01932058409501, "lng": 76.9343213925025 },
+  { "name": "Bhavani Illam (2nd year boys hostel)", "lat": 11.019313872336568, "lng": 76.93519000625089 },
+  { "name": "Vaigai Illam (3rd year boys hostel)", "lat": 11.020213611710972, "lng": 76.93512485172909 },
+  { "name": "Thamirabarani Illam (4th year boys hostel)", "lat": 11.020103036252802, "lng": 76.93436310442638 },
+  { "name": "Library", "lat": 11.01912365179142, "lng": 76.93590269237664 },
+  { "name": "Workshop", "lat": 11.018803326028076, "lng": 76.93396336948351 },
+  { "name": "1st year boys hostel", "lat": 11.020446972536407, "lng": 76.93659041777916 },
+  { "name": "Playground", "lat": 11.018269046379462, "lng": 76.93741814423912 },
+  { "name": "Gallery", "lat": 11.019044679536844, "lng": 76.93685243254632 },
+  { "name": "Alumni Auditorium", "lat": 11.017687320160553, "lng": 76.93850018013799 },
+  { "name": "Main Gate", "lat": 11.01933554146, "lng": 76.93850018013288 },
+  { "name": "Dispensary", "lat": 11.020085843993536, "lng": 76.93677286998776 },
+  { "name": "Indoor Stadium", "lat": 11.021379602667132, "lng": 76.93331298849868 },
+  { "name": "SBI Bank", "lat": 11.01841827998496, "lng": 76.93656427544217 },
+  { "name": "IBT Department", "lat": 11.020253698253857, "lng": 76.93334964919424 }
+]
+
