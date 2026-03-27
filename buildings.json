@@ -23,6 +23,10 @@
   { "name": "Dispensary", "lat": 11.020085843993536, "lng": 76.93677286998776 },
   { "name": "Indoor Stadium", "lat": 11.021379602667132, "lng": 76.93331298849868 },
   { "name": "SBI Bank", "lat": 11.01841827998496, "lng": 76.93656427544217 },
-  { "name": "IBT Department", "lat": 11.020253698253857, "lng": 76.93334964919424 }
+  { "name": "IBT Department", "lat": 11.020253698253857, "lng": 76.93334964919424 },
+  { "name": "1st year girls hostel", "lat": 11.021847816694322, "lng": 76.93457168722291 },
+  { "name": "2nd year girls hostel", "lat": 11.022521425593949, "lng": 76.93521622299818 },
+  { "name": "3rd year girls hostel", "lat": 11.021361988264356, "lng": 76.93607284617362 },
+  { "name": "4th year girls hostel", "lat": 11.02145525800436, "lng": 76.93523957329545 }
 ]
 
